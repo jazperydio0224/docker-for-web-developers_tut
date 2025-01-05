@@ -1,0 +1,18 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.9.0
+2 info using node@v22.12.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/node/app/.npmrc
+5 silly config load:file:/usr/local/etc/npmrc
+6 verbose title npm run debug
+7 verbose argv "run" "debug"
+8 verbose logfile logs-max:10 dir:/home/node/app/.npm/_logs/2025-01-05T13_02_21_571Z-
+9 verbose logfile /home/node/app/.npm/_logs/2025-01-05T13_02_21_571Z-debug-0.log
+10 silly logfile start cleaning logs, removing 1 files
+11 silly logfile done cleaning log files
+12 verbose cwd /home/node/app
+13 verbose os Linux 5.15.167.4-microsoft-standard-WSL2
+14 verbose node v22.12.0
+15 verbose npm  v10.9.0
+16 verbose exit 143
+17 verbose code 143
